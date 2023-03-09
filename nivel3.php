@@ -6,7 +6,7 @@
 <body>
 
    <?php
-   //Ejercicio 
+   //Ejercicio 1
    $cadena = "Hello world";
    $array = str_split($cadena);
    $array2 = array_splice($array, 0 , 5 );
